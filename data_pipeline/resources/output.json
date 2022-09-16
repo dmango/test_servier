@@ -1,0 +1,12 @@
+{
+    "drug_1": {
+        "pubmeds": [ {"id":"aaaa", "date":"1/1/2021"},  {"id":"bbbbb", "date":"1/1/2021"} ],
+        "journals": [ {"id":"aaaa", "date":"1/1/2021"}  ],
+        "clinical_trials": [{"id":"aaaa", "date":"1/1/2021"}]
+    },
+    "drug_2": {
+        "pubmeds": [ {"id":"aaaa", "date":"1/1/2021"}  ],
+        "journals": [ {"id":"aaaa", "date":"1/1/2021"}  ],
+        "clinical_trials": [{"id":"aaaa", "date":"1/1/2021"}]
+    }
+}
